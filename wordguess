@@ -1,0 +1,305 @@
+def columnsOf1word():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1=="1":
+        print("A E I M Q U V \n")
+    elif letter1=="2":
+        print("B F J N R V Z \n")
+    elif letter1=="3":
+        print("C G K O S W \n")
+    elif letter1=="4":
+        print("D H L P T X \n")
+
+def columnsOf2words():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1=="1":
+        print("A E I M Q U V \n")
+    elif letter1=="2":
+        print("B F J N R V Z \n")
+    elif letter1=="3":
+        print("C G K O S W \n")
+    elif letter1=="4":
+        print("D H L P T X \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2=="1":
+        print("A E I M Q U V \n")
+    elif letter2=="2":
+        print("B F J N R V Z \n")
+    elif letter2=="3":
+        print("C G K O S W \n")
+    elif letter2=="4":
+        print("D H L P T X \n")
+
+def columnsOf3words():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1=="1":
+        print("A E I M Q U V \n")
+    elif letter1=="2":
+        print("B F J N R V Z \n")
+    elif letter1=="3":
+        print("C G K O S W \n")
+    elif letter1=="4":
+        print("D H L P T X \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2 == "1":
+        print("A E I M Q U V \n")
+    elif letter2 == "2":
+        print("B F J N R V Z \n")
+    elif letter2 == "3":
+        print("C G K O S W \n")
+    elif letter2 == "4":
+        print("D H L P T X \n")
+
+    letter3 = input("Enter the column number of 3rd word: ")
+    if letter3 == "1":
+        print("A E I M Q U V \n")
+    elif letter3 == "2":
+        print("B F J N R V Z \n")
+    elif letter3 == "3":
+        print("C G K O S W \n")
+    elif letter3 == "4":
+        print("D H L P T X \n")
+
+def columnsOf4words():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1 == "1":
+        print("A E I M Q U V \n")
+    elif letter1 == "2":
+        print("B F J N R V Z \n")
+    elif letter1 == "3":
+        print("C G K O S W \n")
+    elif letter1 == "4":
+        print("D H L P T X \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2 == "1":
+        print("A E I M Q U V \n")
+    elif letter2 == "2":
+        print("B F J N R V Z \n")
+    elif letter2 == "3":
+        print("C G K O S W \n")
+    elif letter2 == "4":
+        print("D H L P T X \n")
+
+    letter3 = input("Enter the column number of 3rd word: ")
+    if letter3 == "1":
+        print("A E I M Q U V \n")
+    elif letter3 == "2":
+        print("B F J N R V Z \n")
+    elif letter3 == "3":
+        print("C G K O S W \n")
+    elif letter3 == "4":
+        print("D H L P T X \n")
+
+    letter4 = input("Enter the column number of 4th word: ")
+    if letter4 == "1":
+        print("A E I M Q U V \n")
+    elif letter4 == "2":
+        print("B F J N R V Z \n")
+    elif letter4 == "3":
+        print("C G K O S W \n")
+    elif letter4 == "4":
+        print("D H L P T X \n")
+
+def columnsOf1word2():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1=="1":
+        print("A B C D \n")
+    elif letter1=="2":
+        print("E F G H \n")
+    elif letter1=="3":
+        print("I G K L \n")
+    elif letter1=="4":
+        print("M N O P \n")
+    elif letter1=="5":
+        print("Q R S T \n")
+    elif letter1 == "6":
+        print("U V W X \n")
+    elif letter1 == "7":
+        print("Y Z \n")
+
+def columnsOf2words2():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1=="1":
+        print("A B C D \n")
+    elif letter1=="2":
+        print("E F G H \n")
+    elif letter1=="3":
+        print("I G K L \n")
+    elif letter1=="4":
+        print("M N O P \n")
+    elif letter1=="5":
+        print("Q R S T \n")
+    elif letter1 == "6":
+        print("U V W X \n")
+    elif letter1 == "7":
+        print("Y Z \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2=="1":
+        print("A B C D \n")
+    elif letter2=="2":
+        print("E F G H \n")
+    elif letter2=="3":
+        print("I G K L \n")
+    elif letter2=="4":
+        print("M N O P \n")
+    elif letter2=="5":
+        print("Q R S T \n")
+    elif letter2 == "6":
+        print("U V W X \n")
+    elif letter2 == "7":
+        print("Y Z \n")
+
+def columnsOf3words2():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1 == "1":
+        print("A B C D \n")
+    elif letter1 == "2":
+        print("E F G H \n")
+    elif letter1 == "3":
+        print("I G K L \n")
+    elif letter1 == "4":
+        print("M N O P \n")
+    elif letter1 == "5":
+        print("Q R S T \n")
+    elif letter1 == "6":
+        print("U V W X \n")
+    elif letter1 == "7":
+        print("Y Z \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2 == "1":
+        print("A B C D \n")
+    elif letter2 == "2":
+        print("E F G H \n")
+    elif letter2 == "3":
+        print("I G K L \n")
+    elif letter2 == "4":
+        print("M N O P \n")
+    elif letter2 == "5":
+        print("Q R S T \n")
+    elif letter2 == "6":
+        print("U V W X \n")
+    elif letter2 == "7":
+        print("Y Z \n")
+
+    letter3 = input("Enter the column number of 3rd word: ")
+    if letter3 == "1":
+        print("A B C D \n")
+    elif letter3 == "2":
+        print("E F G H \n")
+    elif letter3 == "3":
+        print("I G K L \n")
+    elif letter3 == "4":
+        print("M N O P \n")
+    elif letter3 == "5":
+        print("Q R S T \n")
+    elif letter3 == "6":
+        print("U V W X \n")
+    elif letter3 == "7":
+        print("Y Z \n")
+
+def columnsOf4words2():
+    letter1 = input("Enter the column number of 1st word: ")
+    if letter1 == "1":
+        print("A B C D \n")
+    elif letter1 == "2":
+        print("E F G H \n")
+    elif letter1 == "3":
+        print("I G K L \n")
+    elif letter1 == "4":
+        print("M N O P \n")
+    elif letter1 == "5":
+        print("Q R S T \n")
+    elif letter1 == "6":
+        print("U V W X \n")
+    elif letter1 == "7":
+        print("Y Z \n")
+
+    letter2 = input("Enter the column number of 2nd word: ")
+    if letter2 == "1":
+        print("A B C D \n")
+    elif letter2 == "2":
+        print("E F G H \n")
+    elif letter2 == "3":
+        print("I G K L \n")
+    elif letter2 == "4":
+        print("M N O P \n")
+    elif letter2 == "5":
+        print("Q R S T \n")
+    elif letter2 == "6":
+        print("U V W X \n")
+    elif letter2 == "7":
+        print("Y Z \n")
+
+    letter3 = input("Enter the column number of 3rd word: ")
+    if letter3 == "1":
+        print("A B C D \n")
+    elif letter3 == "2":
+        print("E F G H \n")
+    elif letter3 == "3":
+        print("I G K L \n")
+    elif letter3 == "4":
+        print("M N O P \n")
+    elif letter3 == "5":
+        print("Q R S T \n")
+    elif letter3 == "6":
+        print("U V W X \n")
+    elif letter3 == "7":
+        print("Y Z \n")
+
+    letter4 = input("Enter the column number of 4th word: ")
+    if letter4 == "1":
+        print("A B C D \n")
+    elif letter4 == "2":
+        print("E F G H \n")
+    elif letter4 == "3":
+        print("I G K L \n")
+    elif letter4 == "4":
+        print("M N O P \n")
+    elif letter4 == "5":
+        print("Q R S T \n")
+    elif letter4 == "6":
+        print("U V W X \n")
+    elif letter4 == "7":
+        print("Y Z \n")
+
+
+for i in range(1):
+    print(" 1 2 3 4")
+    print(" A B C D")
+    print(" E F G H")
+    print(" I J K L")
+    print(" M N O P")
+    print(" Q R S T")
+    print(" U V W X")
+    print(" Y Z\n")
+
+len=int(input("Enter the total alphabets of your word: "))
+if len==1:
+    columnsOf1word()
+elif len==2:
+    columnsOf2words()
+elif len==3:
+    columnsOf3words()
+elif len==4:
+    columnsOf4words()
+
+for i in range(1):
+    print("A E I M Q U V")
+    print("B F J N R V Z")
+    print("C G K O S W")
+    print("D H L P T X\n")
+
+if len==1:
+    columnsOf1word2()
+elif len==2:
+    columnsOf2words2()
+elif len==3:
+    columnsOf3words2()
+elif len==4:
+    columnsOf4words2()
+
+
